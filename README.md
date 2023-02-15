@@ -154,3 +154,4 @@ Admiral Greer and Lieutenant Ryan still have the same passwords as before, but i
     SERVER_SESSION_SECRET=superDuperSecret
     ```
     While you're in your new `.env` file, take the time to replace `superDuperSecret` with some long random string like `25POUbVtx6RKVNWszd9ERB9Bb6` to keep your application secure. Here's a site that can help you: [https://passwordsgenerator.net/](https://passwordsgenerator.net/).
+# secure-submarine
